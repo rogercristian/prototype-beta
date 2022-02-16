@@ -1,0 +1,437 @@
+fileFormatVersion: 2
+guid: 1d93d2ce08275354dac5f19c4668e910
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 939516703730202239
+    second: energy splash_0
+  - first:
+      213: 8029837588151210292
+    second: energy splash_1
+  - first:
+      213: -4119314972813103238
+    second: energy splash_2
+  - first:
+      213: 6730163247540961185
+    second: energy splash_3
+  - first:
+      213: 6479343894680169502
+    second: energy splash_4
+  - first:
+      213: 7431663968970637265
+    second: energy splash_5
+  - first:
+      213: -279878527017509690
+    second: energy splash_6
+  - first:
+      213: -8643068033969454510
+    second: energy splash_7
+  - first:
+      213: -465968650193131065
+    second: energy splash_8
+  - first:
+      213: 1842588537315346238
+    second: energy splash_9
+  - first:
+      213: -1913881779657682940
+    second: energy splash_10
+  - first:
+      213: -6287295905423762896
+    second: energy splash_11
+  - first:
+      213: -95522960682739841
+    second: energy splash_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: energy splash_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 591
+        width: 267
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76726ad675d90d00800000000000000
+      internalID: 939516703730202239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy splash_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 620
+        width: 256
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43115d51eb6bf6f60800000000000000
+      internalID: 8029837588151210292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy splash_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 336
+        width: 199
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fe6877bd045d6c0800000000000000
+      internalID: -4119314972813103238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy splash_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 379
+        width: 157
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af7112d0d7566d50800000000000000
+      internalID: 6730163247540961185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy splash_4
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 400
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ce10471f04be950800000000000000
+      internalID: 6479343894680169502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy splash_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 183
+        width: 104
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df70905103922760800000000000000
+      internalID: 7431663968970637265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy splash_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 181
+        width: 72
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc9cd866fbad1cf0800000000000000
+      internalID: -279878527017509690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy splash_7
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 178
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25287b18a67ad0880800000000000000
+      internalID: -8643068033969454510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy splash_8
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 199
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c925c04bfb8889f0800000000000000
+      internalID: -465968650193131065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy splash_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 24
+        width: 90
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3743e12380329910800000000000000
+      internalID: 1842588537315346238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy splash_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 28
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400596d59a68075e0800000000000000
+      internalID: -1913881779657682940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy splash_11
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 40
+        width: 87
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ad27f7fa90fb8a0800000000000000
+      internalID: -6287295905423762896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy splash_12
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 25
+        width: 87
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f779c949f52acaef0800000000000000
+      internalID: -95522960682739841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 1d93d2ce08275354dac5f19c4668e910, type: 3}
+      name: _Emission
+    nameFileIdTable:
+      energy splash_9: 1842588537315346238
+      energy splash_1: 8029837588151210292
+      energy splash_6: -279878527017509690
+      energy splash_8: -465968650193131065
+      energy splash_12: -95522960682739841
+      energy splash_2: -4119314972813103238
+      energy splash_5: 7431663968970637265
+      energy splash_7: -8643068033969454510
+      energy splash_0: 939516703730202239
+      energy splash_3: 6730163247540961185
+      energy splash_10: -1913881779657682940
+      energy splash_4: 6479343894680169502
+      energy splash_11: -6287295905423762896
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

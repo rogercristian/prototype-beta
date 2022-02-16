@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: d8961dd45eee8064d82511e758d2e8ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4687163200726826689
+    second: bloos splash_0
+  - first:
+      213: -901801874261253882
+    second: bloos splash_1
+  - first:
+      213: -5904705519431609980
+    second: bloos splash_2
+  - first:
+      213: 3505009890280773708
+    second: bloos splash_3
+  - first:
+      213: 2659767502332569791
+    second: bloos splash_4
+  - first:
+      213: -7093897555900032199
+    second: bloos splash_5
+  - first:
+      213: -7401615540533923377
+    second: bloos splash_6
+  - first:
+      213: 3474761945416791276
+    second: bloos splash_7
+  - first:
+      213: 5853617711229400818
+    second: bloos splash_8
+  - first:
+      213: 9006534420844529417
+    second: bloos splash_9
+  - first:
+      213: -8524456535322908199
+    second: bloos splash_10
+  - first:
+      213: 3736309851880384530
+    second: bloos splash_11
+  - first:
+      213: -8475159577126859813
+    second: bloos splash_12
+  - first:
+      213: 5002906377864316535
+    second: bloos splash_13
+  - first:
+      213: 943810038305146435
+    second: bloos splash_14
+  - first:
+      213: 6390917975230781890
+    second: bloos splash_15
+  - first:
+      213: -5930989301862872572
+    second: bloos splash_16
+  - first:
+      213: -7002901919681464326
+    second: bloos splash_17
+  - first:
+      213: 7871253697806073504
+    second: bloos splash_18
+  - first:
+      213: -7960540112455947026
+    second: bloos splash_19
+  - first:
+      213: 7511456283992878429
+    second: bloos splash_20
+  - first:
+      213: -6101108006323911452
+    second: bloos splash_21
+  - first:
+      213: -8926109297027905320
+    second: bloos splash_22
+  - first:
+      213: 4448309986633068454
+    second: bloos splash_23
+  - first:
+      213: 791641511757495539
+    second: bloos splash_24
+  - first:
+      213: 7594431835183186091
+    second: bloos splash_25
+  - first:
+      213: -4589109408883762935
+    second: bloos splash_26
+  - first:
+      213: -2501372301384004818
+    second: bloos splash_0
+  - first:
+      213: 6081122455714800935
+    second: bloos splash_1
+  - first:
+      213: 3638073223604893999
+    second: bloos splash_2
+  - first:
+      213: 4216808489124430219
+    second: bloos splash_3
+  - first:
+      213: 7098453592799865956
+    second: bloos splash_4
+  - first:
+      213: 6390650258530473555
+    second: bloos splash_5
+  - first:
+      213: 4884874476548603352
+    second: bloos splash_6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bloos splash_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 591
+        width: 267
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b410d0527594dd0800000000000000
+      internalID: -4687163200726826689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloos splash_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 620
+        width: 256
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725288087ac746450800000000000000
+      internalID: -901801874261253882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloos splash_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 336
+        width: 199
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2974df42580d7230800000000000000
+      internalID: -5904705519431609980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloos splash_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 379
+        width: 157
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b810d10bafc158a30800000000000000
+      internalID: 3505009890280773708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloos splash_4
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 400
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c6e65fee5c28260800000000000000
+      internalID: 2659767502332569791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloos splash_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 183
+        width: 104
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356977f0d8620b850800000000000000
+      internalID: -7093897555900032199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloos splash_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 181
+        width: 72
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd3d0b847f8ac340800000000000000
+      internalID: -7401615540533923377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloos splash_7
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 178
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4fc9b4495d83030800000000000000
+      internalID: 3474761945416791276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloos splash_8
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 199
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f673c86b4a3c3150800000000000000
+      internalID: 5853617711229400818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloos splash_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 24
+        width: 90
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90744cb4653adfc70800000000000000
+      internalID: 9006534420844529417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloos splash_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 28
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d922d412fb03b980800000000000000
+      internalID: -8524456535322908199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloos splash_11
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 40
+        width: 87
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2186f14b30a0ad330800000000000000
+      internalID: 3736309851880384530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloos splash_12
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 25
+        width: 87
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb8a96944f226a80800000000000000
+      internalID: -8475159577126859813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bloos splash_8: 5853617711229400818
+      bloos splash_5: -7093897555900032199
+      bloos splash_10: -8524456535322908199
+      bloos splash_12: -8475159577126859813
+      bloos splash_7: 3474761945416791276
+      bloos splash_9: 9006534420844529417
+      bloos splash_2: -5904705519431609980
+      bloos splash_4: 2659767502332569791
+      bloos splash_6: -7401615540533923377
+      bloos splash_1: -901801874261253882
+      bloos splash_11: 3736309851880384530
+      bloos splash_3: 3505009890280773708
+      bloos splash_0: -4687163200726826689
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
