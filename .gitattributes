@@ -22,3 +22,6 @@ prototype_beta/UserSettings filter=lfs diff=lfs merge=lfs -text
 prototype_beta/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj filter=lfs diff=lfs merge=lfs -text
 prototype_beta/Unity.RenderPipelines.Universal.Runtime.csproj filter=lfs diff=lfs merge=lfs -text
 prototype_beta/. filter=lfs diff=lfs merge=lfs -text
+*[[:space:]].psb filter=lfs diff=lfs merge=lfs -text
+*[[:space:]].psd filter=lfs diff=lfs merge=lfs -text
+*[[:space:]].png filter=lfs diff=lfs merge=lfs -text
