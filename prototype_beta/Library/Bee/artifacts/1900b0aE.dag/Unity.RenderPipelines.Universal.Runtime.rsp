@@ -331,6 +331,7 @@
 -r:"D:/OneDrive - bbzzd/OneDrive/Documents/GitHub/prototype-beta/prototype_beta/Library/PackageCache/com.unity.burst@1.6.4/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll"
 -r:"D:/OneDrive - bbzzd/OneDrive/Documents/GitHub/prototype-beta/prototype_beta/Library/PackageCache/com.unity.burst@1.6.4/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll"
 -r:"D:/OneDrive - bbzzd/OneDrive/Documents/GitHub/prototype-beta/prototype_beta/Library/PackageCache/com.unity.burst@1.6.4/Unity.Burst.Unsafe.dll"
+-r:"D:/OneDrive - bbzzd/OneDrive/Documents/GitHub/prototype-beta/prototype_beta/Library/PackageCache/com.unity.cinemachine@2.8.4/Runtime/ThirdParty/clipper_library.dll"
 -r:"D:/OneDrive - bbzzd/OneDrive/Documents/GitHub/prototype-beta/prototype_beta/Library/PackageCache/com.unity.collab-proxy@1.15.7/Lib/Editor/PlasticSCM/log4netPlastic.dll"
 -r:"D:/OneDrive - bbzzd/OneDrive/Documents/GitHub/prototype-beta/prototype_beta/Library/PackageCache/com.unity.collab-proxy@1.15.7/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll"
 -r:"D:/OneDrive - bbzzd/OneDrive/Documents/GitHub/prototype-beta/prototype_beta/Library/PackageCache/com.unity.collab-proxy@1.15.7/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll"
